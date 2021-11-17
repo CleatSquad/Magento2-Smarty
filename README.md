@@ -8,10 +8,10 @@ This template engine is intended to be used in addition to the `.tpl` files.
 
 ## Badges
 
-[![Total Downloads](https://poser.pugx.org/cleatsquad/magento-smarty/d/total.svg)](https://packagist.org/packages/cleatsquad/magento-smarty)
-[![Latest Stable Version](https://poser.pugx.org/cleatsquad/magento-smarty/v/stable.svg)](https://packagist.org/packages/cleatsquad/magento-smarty)
-[![Latest Unstable Version](https://poser.pugx.org/cleatsquad/magento-smarty/v/unstable.svg)](https://packagist.org/packages/cleatsquad/magento-smarty)
-[![License](https://poser.pugx.org/cleatsquad/magento-smarty/license.svg)](https://packagist.org/packages/cleatsquad/magento-smarty)
+[![Latest Stable Version](http://poser.pugx.org/cleatsquad/magento-smarty/v)](https://packagist.org/packages/cleatsquad/magento-smarty) 
+[![Total Downloads](http://poser.pugx.org/cleatsquad/magento-smarty/downloads)](https://packagist.org/packages/cleatsquad/magento-smarty) 
+[![Latest Unstable Version](http://poser.pugx.org/cleatsquad/magento-smarty/v/unstable)](https://packagist.org/packages/cleatsquad/magento-smarty) 
+[![License](http://poser.pugx.org/cleatsquad/magento-smarty/license)](https://packagist.org/packages/cleatsquad/magento-smarty) 
 
 ## Getting Started
 
